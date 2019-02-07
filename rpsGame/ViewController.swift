@@ -31,7 +31,7 @@ class ViewController: UIViewController {
     @IBAction func goAction(_ sender: UIButton) {
        
         //if statements
-        
+        //test
         
         randomImagePicker()
     
